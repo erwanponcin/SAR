@@ -8,10 +8,14 @@
 Spécifiation terminée
 
 24/09
-Séance en cours: début design
+Séance en cours: début design channel
 
 25/09
 Graphe d'objet sur papier
 
 30/09
-Design terminé
+Design channel terminé
+
+01/10
+Séance en cours: début design MessageQueues synchronous
+

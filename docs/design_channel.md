@@ -1,4 +1,4 @@
-# Design
+# Design Channel
 
 ## 1. `CBroker`
 
